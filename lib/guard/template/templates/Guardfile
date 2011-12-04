@@ -1,0 +1,3 @@
+# Insert whatever you want in the Guardfile here
+
+guard 'template'
